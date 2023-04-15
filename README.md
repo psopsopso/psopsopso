@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-<img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ovcolnmazlbhrrdhtm5z0xtmyie8vmq0v9ve0no6&rid=giphy.gif&ct=g" align="center"/>
+<img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ovcolnmazlbhrrdhtm5z0xtmyie8vmq0v9ve0no6&rid=giphy.gif&ct=g" style="display: block; margin: 0 auto;">
+
 
 <!--
 **psopsopso/psopsopso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
