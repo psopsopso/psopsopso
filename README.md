@@ -1,3 +1,5 @@
+# Hey !
+
 <div align="center">
   <img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ovcolnmazlbhrrdhtm5z0xtmyie8vmq0v9ve0no6&rid=giphy.gif&ct=g"/>
 </div>
@@ -8,3 +10,5 @@ Hi, I'm Patrice, a former business major, CPA and Financial Controller, currentl
   <a href="mailto:patrice.sorrant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/patrice-sorrant-9844501b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
+# Technologies & Tools
