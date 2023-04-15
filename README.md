@@ -11,5 +11,5 @@ Hi, I'm Patrice, a former business major, CPA and Financial Controller, currentl
   <a href="https://www.linkedin.com/in/patrice-sorrant-9844501b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-# Technologies & Tools
+
 
