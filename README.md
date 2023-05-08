@@ -18,6 +18,14 @@ Ma formation d'expert-comptable et mon expérience dans le milieu des affaires m
 
 Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et la technologie, je suis enthousiaste à l'idée d'utiliser l'ensemble de mes compétences pour contribuer à des projets innovants dans le domaine de l'informatique. Je suis ouvert à des opportunités de collaboration et d'apprentissage auprès d'autres professionnels du domaine et je suis déterminé à poursuivre une carrière épanouissante dans les technologies de l'information.
 
+## :envelope: Contact
+
+<div align="center">
+  <a href="mailto:patrice.sorrant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/patrice-sorrant-9844501b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+
 ## 🔧 Technologies & Tools
 
 <table align="center">
@@ -171,10 +179,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
   </tr>
 </table>
 
-<div align="center">
-  <a href="mailto:patrice.sorrant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/patrice-sorrant-9844501b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+
 
 
 
