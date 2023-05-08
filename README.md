@@ -20,7 +20,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
 
 ## 🔧 Technologies & Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center" height="108" width="108">
       <img
