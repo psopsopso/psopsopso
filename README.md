@@ -1,4 +1,4 @@
-# :wave: Introduction
+## :wave: Introduction
 
 <div align="center">
   <img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ovcolnmazlbhrrdhtm5z0xtmyie8vmq0v9ve0no6&rid=giphy.gif&ct=g"/>
@@ -18,7 +18,7 @@ Ma formation d'expert-comptable et mon expérience dans le milieu des affaires m
 
 Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et la technologie, je suis enthousiaste à l'idée d'utiliser l'ensemble de mes compétences pour contribuer à des projets innovants dans le domaine de l'informatique. Je suis ouvert à des opportunités de collaboration et d'apprentissage auprès d'autres professionnels du domaine et je suis déterminé à poursuivre une carrière épanouissante dans les technologies de l'information.
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 <table>
   <tr>
