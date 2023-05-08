@@ -33,7 +33,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+        src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
         width="48"
         height="48"
         alt="Jupyter"
