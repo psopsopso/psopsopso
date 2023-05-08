@@ -24,7 +24,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
         width="48"
         height="48"
         alt="TypeScript"
@@ -51,24 +51,6 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
@@ -86,7 +68,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
       <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
+      <img      
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
