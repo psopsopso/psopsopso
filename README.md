@@ -100,7 +100,7 @@ Avec un vif intérêt pour l'exploration de l'intersection entre les affaires et
         height="48"
         alt="TypeScript"
       />
-      <br /><strong>TypeScripts</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     </tr>
     <tr>
